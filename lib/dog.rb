@@ -8,3 +8,5 @@ class Dog
   end
 
 end
+
+Fido = Dog.new
